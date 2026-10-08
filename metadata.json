@@ -1,0 +1,6 @@
+{
+  "name": "BijakAtur",
+  "description": "Papan Kanban pintar dengan fungsi drag-and-drop responsif, analitis produktiviti, dan penjanaan subtugasan automatik menggunakan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
